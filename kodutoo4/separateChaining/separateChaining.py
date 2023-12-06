@@ -1,4 +1,6 @@
 #Kasutatud allikad: https://www.geeksforgeeks.org/implementation-of-hash-table-in-python-using-separate-chaining/
+#Koodi autor devsharz7x2
+#Kood võetud analüüsiks ja big-o notatsiooni analüüsiks
 
 class Node: 
 	def __init__(self, key, value): 

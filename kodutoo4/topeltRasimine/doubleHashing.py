@@ -1,4 +1,7 @@
-#Kasutatud allikad: https://www.geeksforgeeks.org/double-hashing/
+#Kasutatud allikas: https://www.geeksforgeeks.org/double-hashing/
+#Koodi autor shubham_rana_77
+#Kood võetud analüüsiks ja big-o notatsiooni analüüsiks
+
 
 from typing import List
 import math
